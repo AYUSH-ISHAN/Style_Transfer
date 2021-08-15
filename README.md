@@ -59,4 +59,17 @@ and functions.
       Style Loss Weight = 10e-4<br>
       Content Loss Weight = 10e-2<br>
     </td>
+  </tr>
+  <tr>
+    <td>
+      <img src = "https://github.com/AYUSH-ISHAN/Style_Transfer/blob/main/combinations/combo_2.png"/>
+    </td>
+    <td>
+      <img src = "https://github.com/AYUSH-ISHAN/Style_Transfer/blob/main/results/combination_1000_para_1_epochs.png"/>
+    </td>
+    <td>
+       Total Number of Epochs = 1000<br>
+       Style Loss Weight = 10e-4<br>
+       Content Loss Weight = 10e-2<br>
+    <td>
 </table>
