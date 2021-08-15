@@ -21,3 +21,6 @@ and functions.
 # Model Used:
 
 <img src = "https://github.com/AYUSH-ISHAN/Style_Transfer/blob/main/model.png" height = '1400' width = '800'/>
+
+# Some Constraints:
+In this test, I fixed the total number of epochs to 1000 and changed the values of hyperparameters.  
