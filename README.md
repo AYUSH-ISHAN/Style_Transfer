@@ -10,7 +10,10 @@ combination of two images.
 Here, I am represting the vode work of Style tranfer paper as well as the different outputs got after changing the hyperparameters (here, the Style loss
 Weight and the Content loss weight).
 
-# Files Introduction:
-Here, <B>Style_transfer.py</B> is the main file having python code of style transfers from scratch based on the Style Transfer paper.
-Next, we have <B>Style_transfers-using_tensorflow_power.py</B>, this file is based on implementation of Style Transfer based on inbuilt Tensorflow Modules 
+# Files and Folders Introduction:
+1. <B>Style_transfer.py</B> is the main file having python code of style transfers from scratch based on the Style Transfer paper.
+2. <B>Style_transfers-using_tensorflow_power.py</B>, this file is based on implementation of Style Transfer based on inbuilt Tensorflow Modules 
 and functions.
+3. <B>sample_image</B> - This folder has images which we took as sample or the images on which we applied the style of other images.
+4. <B>style_images</B> - This folder has images which we took as Style imaegs. That is the imaegs from whch we borrow the styles.
+5. <B>combinaions</B> - this is the folder containing the final output image.
