@@ -69,8 +69,8 @@ and functions.
     </td>
     <td>
        Total Number of Epochs = 1000<br>
-       Style Loss Weight = 10e-4<br>
-       Content Loss Weight = 10e-2<br>
+       Style Loss Weight = 10e-2<br>
+       Content Loss Weight = 10e-1<br>
     <td>
   </tr>
   <tr>
@@ -85,4 +85,44 @@ and functions.
        Style Loss Weight = 10e-4<br>
        Content Loss Weight = 1<br>
     </td>
+  </tr>
+  <tr>
+    <td>
+      <img src = "https://github.com/AYUSH-ISHAN/Style_Transfer/blob/main/combinations/combo_2.png"/>
+    </td>
+    <td>
+      <img src = "https://github.com/AYUSH-ISHAN/Style_Transfer/blob/main/results/combination_2_%201000.png"/>
+    </td>
+    <td>
+       Total Number of Epochs = 1000<br>
+       Style Loss Weight = 10e-4<br>
+       Content Loss Weight = 10e-2<br>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <img src = "https://github.com/AYUSH-ISHAN/Style_Transfer/blob/main/combinations/combo_3.png"/>
+    </td>
+    <td>
+      <img src = "https://github.com/AYUSH-ISHAN/Style_Transfer/blob/main/results/combination_3_%201000.png.png"/>
+    </td>
+    <td>
+       Total Number of Epochs = 1000<br>
+       Style Loss Weight = 10e-4<br>
+       Content Loss Weight = 10e-2<br>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <img src = "https://github.com/AYUSH-ISHAN/Style_Transfer/blob/main/combinations/combo_4.png"/>
+    </td>
+    <td>
+      <img src = "https://github.com/AYUSH-ISHAN/Style_Transfer/blob/main/results/combination_4.png"/>
+    </td>
+    <td>
+       Total Number of Epochs = 1000<br>
+       Style Loss Weight = 10e-4<br>
+       Content Loss Weight = 10e-2<br>
+    </td>
+  </tr>
 </table>
