@@ -22,3 +22,41 @@ and functions.
 # Model Used:
 
 <img src = "https://github.com/AYUSH-ISHAN/Style_Transfer/blob/main/model.png" height = '1400' width = '800'/>
+
+# Final Output:
+<table>
+  <tr>
+    <td>
+      Combinations
+    </td>
+    <td>
+      Results
+    </td>
+    <td>
+      Conditions
+    </td>
+  <tr>
+    <td>
+      <img src = "https://github.com/AYUSH-ISHAN/Style_Transfer/blob/main/combinations/combo_1.png"/>
+    </td>
+    <td>
+      <img src = "https://github.com/AYUSH-ISHAN/Style_Transfer/blob/main/results/combination_1.png", align = "right"/>
+    </td>
+    <td>
+      Total Number of Epochs = 100<br>
+      Style Loss Weight = 10e-4<br>
+      Content Loss Weight = 10e-2<br>
+  </tr>
+  <tr>
+    <td>
+      <img src = "https://github.com/AYUSH-ISHAN/Style_Transfer/blob/main/combinations/combo_1.png"/>
+    </td>
+    <td>
+      <img src = "https://github.com/AYUSH-ISHAN/Style_Transfer/blob/main/results/combination_1000-epochs.png"/>
+    </td>
+    <td>
+      Total Number of Epochs = 1000<br>
+      Style Loss Weight = 10e-4<br>
+      Content Loss Weight = 10e-2<br>
+    </td>
+</table>
