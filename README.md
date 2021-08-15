@@ -17,6 +17,7 @@ and functions.
 3. <B>sample_image</B> - This folder has images which we took as sample or the images on which we applied the style of other images.
 4. <B>style_images</B> - This folder has images which we took as Style imaegs. That is the imaegs from whch we borrow the styles.
 5. <B>combinaions</B> - this is the folder containing the pairs of style images and content images used.
+6. <B>results</B> - this folder contains the final results obtained after combining the images as present in combinations under different conditions.
 
 # Model Used:
 
