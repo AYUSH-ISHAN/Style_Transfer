@@ -20,4 +20,4 @@ and functions.
 
 # Model Used:
 
-<img src = "https://github.com/AYUSH-ISHAN/Style_Transfer/blob/main/model.png"/>
+<img src = "https://github.com/AYUSH-ISHAN/Style_Transfer/blob/main/model.png" height = '1400' width = '800'/>
