@@ -8,7 +8,7 @@ combination of two images.
 
 # My Work:
 Here, I am represting the vode work of Style tranfer paper as well as the different outputs got after changing the hyperparameters (here, the Style loss
-Weight and the Content loss weight).
+Weight and the Content loss weight). The total number of EPOCHS was kept fixed at 1000.
 
 # Files and Folders Introduction:
 1. <B>Style_transfer.py</B> is the main file having python code of style transfers from scratch based on the Style Transfer paper.
@@ -21,6 +21,3 @@ and functions.
 # Model Used:
 
 <img src = "https://github.com/AYUSH-ISHAN/Style_Transfer/blob/main/model.png" height = '1400' width = '800'/>
-
-# Some Constraints:
-In this test, I fixed the total number of epochs to 1000 and changed the values of hyperparameters.  
