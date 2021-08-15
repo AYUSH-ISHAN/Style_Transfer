@@ -17,3 +17,7 @@ and functions.
 3. <B>sample_image</B> - This folder has images which we took as sample or the images on which we applied the style of other images.
 4. <B>style_images</B> - This folder has images which we took as Style imaegs. That is the imaegs from whch we borrow the styles.
 5. <B>combinaions</B> - this is the folder containing the final output image.
+
+# Model Used:
+
+<img src = "https://github.com/AYUSH-ISHAN/Style_Transfer/blob/main/model.png"/>
