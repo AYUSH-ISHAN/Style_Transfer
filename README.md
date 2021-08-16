@@ -8,7 +8,7 @@ combination of two images.
 
 # My Work:
 Here, I am represting the vode work of Style tranfer paper as well as the different outputs got after changing the hyperparameters (here, the Style loss
-Weight and the Content loss weight). The total number of EPOCHS was kept fixed at 1000. In one of the case I changed the total nber of epochs to 100 (as shown in the table below). 
+Weight and the Content loss weight). The total number of EPOCHS was kept fixed at 1000. In one of the case, I changed the total nber of epochs to 100 (as shown in the table below). 
 
 # Files and Folders Introduction:
 1. <B>Style_transfer.py</B> is the main file having python code of style transfers from scratch based on the Style Transfer paper.
