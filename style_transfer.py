@@ -57,7 +57,7 @@ plt.show()
 
 #####  OPTIMIZER DECLARATION   ######
 
-opt = tf.optimizers.Adam(learning_rate=0.01, beta_1=0.99, epsilon=1e-1)
+opt = tf.optimizers.Adam(learning_rate=0.01)  # advisable to have the first beta as 1 - 0.01 and epsiolon as 1/10.
 
 ##### THE TOTAL LOSS CALCULATION FUNCTION  #########
 
